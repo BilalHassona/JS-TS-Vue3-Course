@@ -1,0 +1,14 @@
+{
+  // TypeScript settings for the exercise files in this folder.
+  // Your editor reads this file, so it reports the same errors as the type check in the terminal.
+  "compilerOptions": {
+    "target": "esnext", // modern JavaScript, so Map, Object.is, toSorted() and friends are known
+    "lib": ["esnext", "dom"], // built-in types: the latest JavaScript plus console, structuredClone, ...
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "strict": true, // all strict checks: no implicit any, null and undefined checks, ...
+    "noEmit": true, // only check the types; Node.js runs the .ts files directly
+    "skipLibCheck": true
+  },
+  "include": ["*.ts"]
+}
