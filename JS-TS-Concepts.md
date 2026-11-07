@@ -357,6 +357,7 @@ Each concept links free tutorials from 2–3 websites. Most come from [javascrip
   - [javascript.info – Event loop: microtasks and macrotasks](https://javascript.info/event-loop)
   - [MDN – JavaScript execution model](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Execution_model)
   - [w3schools – Async Event Loop](https://www.w3schools.com/js/js_async_event_loop.asp)
+  - [Youtube – Great video on JS Event Loop](https://www.youtube.com/watch?v=eiC58R16hb8)
 
 ### 8.2 Callbacks and Promises `[JS]`
 - **Learn:** callback-based async code and "callback hell"; creating promises (`resolve`/`reject`); `then`/`catch`/`finally`; chaining and returning values; error propagation; `Promise.all`, `allSettled`, `race` and `any`; turning `setTimeout` into a promise.
